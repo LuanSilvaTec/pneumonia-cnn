@@ -2,3 +2,4 @@
 
 * Versão do tensorflow: 1.X
 * Link para o artigo: https://sbic.org.br/eventos/cbic_2019/cbic2019-24/
+* Link para o dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
